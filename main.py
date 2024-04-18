@@ -45,5 +45,6 @@ while True:
         print(i)
         time.sleep(0.2)
         
-        
+
+#3VINICIN VIADO TESTE 
         
